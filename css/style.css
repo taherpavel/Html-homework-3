@@ -1,0 +1,18 @@
+h1{
+	color: violet;
+}
+
+.heading_1{
+	background-color:red;
+
+}
+
+#text1{
+	border: 5px dashed blue;
+	color: green;
+}
+.box{
+	width: 100pt;
+	height: 50px;
+	background-color: red;
+}
